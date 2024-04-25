@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=CurrentDivider.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=CurrentDivider.SchDoc|Designator=ATTINY85|SchDesignator=ATTINY85|FileName=ATTINY85.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=ATTINY85.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=CurrentDivider.SchDoc|Designator=RESISTORS|SchDesignator=RESISTORS|FileName=RESISTORS.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=RESISTORS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=CurrentDivider.SchDoc|Designator=USER_IF|SchDesignator=USER_IF|FileName=USER_IF.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=USER_IF.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

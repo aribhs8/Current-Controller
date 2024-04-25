@@ -1,0 +1,8 @@
+To-Do
+
+I need to move the circuit schematic from Altium Designer to OrCAD, but before moving the schematic, let's add some more details to the Altium Designer circuit.
+
+[*] 1) Move pushbutton from MCU to User I/F
+[*] 2) Using Tracer schematic as reference, add net labels to wires.
+[] 3) Create BOM and add N-Channel MOSFETs and P-Channel MOSFETs.
+[] 4) Check FETs using Proteus and then create new schematic sheet for RESISTORS.SchDoc
